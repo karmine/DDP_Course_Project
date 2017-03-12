@@ -20,8 +20,6 @@ Explore the data with Hiecharchical Clustering Method using NBClust criterion to
 
 The application uses 7 different types of data: fundation -> year of fundation of the university, number.professor -> number total of professors of the university in year 2015, number.student -> number total of students of the university in year 2015, size.university -> number total of professors plus students of the university in year 2015, size.repository -> number of scientific sources storing in the institutional repository of the university, ranking.rwwu -> ranking web of universities and ranking.alexa -> another ranking web of universities
 
-The application plots the clustering in dendrograms.
-
 Ranking Universities
 ========================================================
 The application creates the ranking table of the universities based on data clustering selected.
@@ -54,7 +52,7 @@ Locating Universities
 ========================================================
 The application locate the university you want on map, with icon links to the web pages of both, university and institutional repository.
 
-We recommend you to try and see all that funtionalities [here](https://scontador.shinyapps.io/ddp_course_project)!!
+We recommend you to try and see all those funtionalities [here](https://scontador.shinyapps.io/ddp_course_project)!!
 
 
 
